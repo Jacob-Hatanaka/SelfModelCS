@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jacobhatanaka/Downloads/ics313class/self/selfobjectmodel/selfobjectmodel.csproj",
+      "projectUniqueName": "/Users/jacobhatanaka/Downloads/ics313class/self/SelfModelCS/selfobjectmodel/selfobjectmodel.csproj",
       "projectName": "selfobjectmodel",
-      "projectPath": "/Users/jacobhatanaka/Downloads/ics313class/self/selfobjectmodel/selfobjectmodel.csproj",
+      "projectPath": "/Users/jacobhatanaka/Downloads/ics313class/self/SelfModelCS/selfobjectmodel/selfobjectmodel.csproj",
       "packagesPath": "/Users/jacobhatanaka/.nuget/packages/",
-      "outputPath": "/Users/jacobhatanaka/Downloads/ics313class/self/selfobjectmodel/obj/",
+      "outputPath": "/Users/jacobhatanaka/Downloads/ics313class/self/SelfModelCS/selfobjectmodel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jacobhatanaka/.nuget/NuGet/NuGet.Config"
